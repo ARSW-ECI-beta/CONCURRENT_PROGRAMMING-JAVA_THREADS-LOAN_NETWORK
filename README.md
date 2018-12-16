@@ -3,7 +3,7 @@
 ### Arquitecturas de Software - ARSW
 
 
-##  Laboratorio – Programación concurrente, condiciones de carrera y sincronización de hilos.
+##  Laboratorio – Programación concurrente, condiciones de carrera y sincronización de hilos - Caso Red de préstamos
 
 
 
